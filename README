@@ -1,0 +1,9 @@
+This was created for HackUTD19 by 
+
+
+For the Alexa skill, that's all in the Archive.zip (hopefully)
+
+For the scrape.py, that's a python file that must have the bs4 package on the system, so run 
+"pip3 install bs4" in the command line.  
+
+Run "python setup.py install" in resulting directory from the download 
